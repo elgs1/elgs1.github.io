@@ -28,4 +28,4 @@ if (isAwesome){
 
 Yes there is, do more
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Jupyter Notebook](/notebooks/pandas.html/).
