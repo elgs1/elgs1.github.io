@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## Earthquakes
 
 **Project description:** Visualisations of Earthquake data, does location effect magnitude?
 
