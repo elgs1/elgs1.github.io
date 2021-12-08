@@ -4,7 +4,7 @@
 
 ### Python projects
 
-[Earthquakes](/pandas.md)
+[Earthquakes](/matplotlib.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
